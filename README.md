@@ -16,4 +16,4 @@
 https://www.transcend-project.org/
 contact: Charlotta Mirbach
 
-## jupyter notebook producing graphics for regional distributions of actor types per geography type
+## python script producing graphics for regional distributions of actor types per geography type
