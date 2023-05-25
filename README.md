@@ -1,6 +1,6 @@
 # who is adapting and how?
 
-R script for calculating ordered logisitic regression of categorical data
+## R script for calculating ordered logisitic regression of categorical data
 
 - ordered logistic regression for data set based on 
 - Global Adaptation Mapping Initiative (GAMI)
@@ -16,3 +16,4 @@ R script for calculating ordered logisitic regression of categorical data
 https://www.transcend-project.org/
 contact: Charlotta Mirbach
 
+## jupyter notebook producing graphics for regional distributions of actor types per geography type
