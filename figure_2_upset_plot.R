@@ -27,7 +27,6 @@ library(tidyr)
 df <- read.csv('./fig2_actors_upset_plot.csv')
 
 # clean col names
-# Clean up column names
 cleaned_colnames <- c(
   "Civil Society (Sub-National or Local)",
   "Individuals or Households",
