@@ -69,7 +69,6 @@ upset(ordered_data,
       sets.bar.color = "blue")
 
 # make fancy upset plot
-# Generate the UpSet plot
 upset(ordered_data, 
       sets = c("Individuals or Households", "Civil Society (Sub-National or Local)",
                "Civil Society (International/Multinational/National)", "Government (Local)", 
