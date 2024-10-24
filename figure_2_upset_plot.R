@@ -1,5 +1,5 @@
 # Main ---------------------------------------
-# Script Name: figure_2_upset_plot
+# Script Name: figure_2_upset_plot 
 # Purpose: Creates an upset plot featuring actor combinations and frequencies from the GAMI database
 # Description ---------------------------------------
 # Author: Charlotta Mirbach (c.mirbach@lmu.de)
